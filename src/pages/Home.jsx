@@ -43,7 +43,7 @@ function Home() {
 			</div>
 
 			{/* Main section */}
-			<div className='z-30 basis-1/3 mt-12 ml-19'>
+			<div className='z-30 basis-1/3  mt-12 ml-19'>
 				{/* Heading */}
 				<motion.div
 					initial='hidden'
@@ -57,7 +57,7 @@ function Home() {
 				>
 					<p className='text-6xl font-playfair z-10 text-center md:text-start'>
 						Oluwole{' '}
-						<span className='xs:relative xs:text-black xs:font-semibold z-20 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]'>
+						<span className='xs:relative xs:text-black xs:font-semibold z-20 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-10]'>
 							Samson
 						</span>
 					</p>
