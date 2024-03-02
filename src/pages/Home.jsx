@@ -56,10 +56,7 @@ function Home() {
 					}}
 				>
 					<p className='text-6xl font-playfair z-10 text-center md:text-start'>
-						Oluwole{' '}
-						<span className=''>
-							Samson
-						</span>
+						Oluwole Samson
 					</p>
 
 					{/* Typewriter Effect */}
