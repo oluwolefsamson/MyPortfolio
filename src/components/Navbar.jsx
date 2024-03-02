@@ -39,8 +39,8 @@ function Navbar({isTopOfPage, selectedPage, setSelectedPage}) {
 
 	return (
 		<nav className={`${navbarBackground} z-40 w-full fixed top-0 py-5 duration-500`}>
-			<div className='flex items-center  justify-between mx-auto w-5/6'>
-				<img src={Logo} alt='img' height={12} width={60} />
+			<div className='flex items-center justify-between mx-auto m pl-8 pr-12'>
+				<img src={Logo} alt='img' height={12} width={60} className='rounded-lg lg:rounded-none'  />
 
 				{isDesktop ? (
 					// Desktop Navbar

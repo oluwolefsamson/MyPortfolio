@@ -39,15 +39,14 @@ function Skills() {
 					<LineGradient width='w-1/3' />
 
 					<p className='mt-10 mb-7'>
-						Hello, I&apos;m Christian Demesa, a Software Engineer! I am a father of two
-						wonderful boys, have a B.A. in philosophy, and Software Development
-						certificates in Python, MERN, and Java full stack software development from
-						Coding Dojo. I specialize in React and Next.js related projects with a heavy
-						emphasis on responsive UI design, RESTful routing, MVC architecture,
-						functional programming, test driven development, and Agile methodologies.
-						When I&apos;m not coding, other hobbies of mine include writing about
-						philosophy, playing piano, hiking, and having my kids beat me at Super Smash
-						Bros.
+						Hello, I'm Oluwole Samson Olawumi, a passionate Fullstack web developer 
+						with a keen eye for detail and a drive for innovation. With a solid foundation 
+						in both front-end and back-end development, I thrive on bringing ideas to life through 
+						elegant and efficient code. My journey in web development is fueled by a relentless 
+						pursuit of excellence and a commitment to staying at the forefront of technological 
+						advancements. Whether it's crafting intuitive user interfaces or architecting robust 
+						server-side solutions, I am dedicated to delivering high-quality, scalable web applications 
+						that make a difference. Let's build something remarkable together.
 					</p>
 				</motion.div>
 			</div>
@@ -73,7 +72,7 @@ function Skills() {
 						<div className='w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]' />
 					</div>
 					<p className='mt-5'>
-						I am proficient in HTML, CSS, JavaScript, Typescript, Python, Java, and SQL.
+					My toolkit includes HTML, CSS, and JavaScript for crafting elegant and responsive user interfaces. 
 					</p>
 				</motion.div>
 
@@ -92,13 +91,16 @@ function Skills() {
 					<div className='relative h-32'>
 						<div className='z-10'>
 							<p className='font-playfair font-semibold text-5xl'>02</p>
-							<p className='font-playfair font-semibold text-3xl mt-3'>Frameworks</p>
+							<p className='font-playfair font-semibold text-3xl mt-3'>Frameworks / Backend</p>
 						</div>
 						<div className='w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]' />
 					</div>
 					<p className='mt-5'>
-						The frameworks I am the most comfortable with include React, Next.js,
-						Angular, Flask, Spring Boot, Node.js, Express.js, jQuery, NumPy, and Pandas.
+						I'm proficient in frameworks like React and Next.js for building dynamic and interactive web applications,
+						while Node.js and Express.js power my server-side development. I leverage Firebase for seamless deployment 
+						and real-time database capabilities, and MongoDB for scalable and flexible data storage solutions. 
+						My passion lies in seamlessly blending creativity with functionality to deliver captivating web experiences. 
+						Let's collaborate and turn your ideas into reality.
 					</p>
 				</motion.div>
 
@@ -124,10 +126,9 @@ function Skills() {
 						<div className='w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]' />
 					</div>
 					<p className='mt-5'>
-						Additional skills I have include a practical familiarity with MongoDB,
-						MySQL, SQLite, Vercel, Netlify, Git, GitHub, Figma, Vite, Docker, Postman,
-						Firebase, Supabase, DigitalOcean, JSON, SASS, TailwindCSS, Bootstrap, Jest,
-						and WordPress.
+						Additional skills I have include a practical familiarity with
+						MySQL, Vercel, Netlify, Git, GitHub, Figma,
+						JSON, TailwindCSS, Bootstrap and WordPress.
 					</p>
 				</motion.div>
 			</div>

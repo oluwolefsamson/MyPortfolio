@@ -60,7 +60,7 @@ function Projects() {
 			>
 				<div>
 					<p className='font-playfair font-semibold text-4xl'>
-						PRO<span className='text-red'>JECTS</span>
+						MY PRO<span className='text-red'>JECTS</span>
 					</p>
 					<div className='flex justify-center mt-5'>
 						<LineGradient width='w-1/3' />
@@ -68,8 +68,8 @@ function Projects() {
 				</div>
 
 				<p className='mt-10 mb-10'>
-					Here is a collection of the projects I am currently most proud of. <br /> Please
-					take a look at each one by clicking on their respective image.
+				Here's a showcase of the projects I'm currently most proud of. <br/>
+				 Feel free to explore each one by clicking on its image.
 				</p>
 			</motion.div>
 
