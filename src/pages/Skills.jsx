@@ -72,7 +72,14 @@ function Skills() {
 						<div className='w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]' />
 					</div>
 					<p className='mt-5'>
-					My toolkit includes HTML, CSS, and JavaScript for crafting elegant and responsive user interfaces. 
+					 My toolkit comprising HTML, CSS, and JavaScript empowers me to create sophisticated and dynamic user 
+					 interfaces with finesse and responsiveness. HTML lays the foundation, structuring content with semantic 
+					 markup. CSS adds style and visual appeal, enabling precise control over layout, typography, and colors. 
+					 JavaScript brings interactivity to the forefront, facilitating dynamic behavior and seamless user 
+					 experiences. Together, these technologies form a potent trio, enabling me to design elegant interfaces 
+					 that adapt effortlessly to various screen sizes and devices. With my expertise in these languages, 
+					 i possess the capability to craft immersive web experiences that captivate and engage users across 
+					 platforms. 
 					</p>
 				</motion.div>
 
@@ -126,9 +133,14 @@ function Skills() {
 						<div className='w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]' />
 					</div>
 					<p className='mt-5'>
-						Additional skills I have include a practical familiarity with
-						MySQL, Vercel, Netlify, Git, GitHub, Figma,
-						JSON, TailwindCSS, Bootstrap and WordPress.
+						My skill set spans various tools and technologies crucial for web development 
+						and design. From database management with MySQL to deployment using Vercel and 
+						Netlify, i am well-equipped. Git and GitHub ensure smooth collaboration and version 
+						control, while Figma aids in creating appealing designs. Proficiency in JSON facilitates 
+						data interchange, while TailwindCSS and Bootstrap enable the development of responsive 
+						UIs. With WordPress expertise, i can efficiently manage content. These skills 
+						collectively empower me to create, deploy, and maintain cutting-edge web applications, 
+						ensuring versatility and efficiency in my projects.
 					</p>
 				</motion.div>
 			</div>

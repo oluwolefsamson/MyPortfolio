@@ -87,53 +87,51 @@ function Projects() {
 						variants={projectVariant}
 						className='flex justify-center text-center items-center p-10 bg-blue max-w-[600px] min-h-[200px] text-2xl font-playfair font-semibold'
 					>
-						RESPONSIVE WEB DESIGN
 					</motion.div>
 					<Project
 						title='Project 1'
-						subtitle='MEAN Delivery'
-						link='https://github.com/christiandeandemesa/MEAN-delivery'
+						subtitle='Dashboard'
+						link='https://github.com/oluwolefsamson/Dashboard'
 					/>
 					<Project
 						title='Project 2'
-						subtitle='Wordpress Blog'
-						link='https://logiclyceum.com/'
+						subtitle='Real Estate'
+						link='https://github.com/oluwolefsamson/equilibrium-website'
 					/>
 
 					{/* Row 2 */}
 					<Project
 						title='Project 3'
-						subtitle='MERN Blog'
-						link='https://github.com/christiandeandemesa/MERN-blog'
+						subtitle='Studio'
+						link='https://github.com/oluwolefsamson/Foto'
 					/>
 					<motion.div
 						variants={projectVariant}
 						className='flex justify-center text-center items-center p-10 bg-red max-w-[600px] min-h-[200px] text-2xl font-playfair font-semibold'
 					>
-						RESTFUL API ARCHITECTURE
 					</motion.div>
 					<Project
 						title='Project 4'
-						subtitle='MERN E-commerce'
-						link='https://github.com/christiandeandemesa/MERN-ecommerce'
+						subtitle='Consultancy'
+						link='https://github.com/oluwolefsamson/Productivity-Consultancy-website'
 					/>
 
 					{/* Row 3 */}
 					<Project
 						title='Project 5'
-						subtitle='Admin Dashboard'
-						link='https://github.com/christiandeandemesa/react-admin'
+						subtitle='Korean Kitchen'
+						link='https://github.com/oluwolefsamson/Korean-Kitchen'
 					/>
 					<Project
 						title='Project 6'
-						subtitle='MERN Chat'
-						link='https://github.com/christiandeandemesa/MERN-chat'
+						subtitle=' My Portfolio'
+						link='https://github.com/oluwolefsamson/MyPortfolio'
 					/>
 					<motion.div
 						variants={projectVariant}
 						className='flex justify-center text-center items-center p-10 bg-yellow max-w-[600px] min-h-[200px] text-2xl font-playfair font-semibold'
 					>
-						SMOOTH USER EXPERIENCE
+						
 					</motion.div>
 				</motion.div>
 			</div>
