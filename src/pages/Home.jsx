@@ -57,7 +57,7 @@ function Home() {
 				>
 					<p className='text-6xl font-playfair z-10 text-center md:text-start'>
 						Oluwole{' '}
-						<span className='xs:relative xs:text-black xs:font-semibold z-20 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-10]'>
+						<span className='xs:relative xs:text-black xs:font-semibold z-100 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-100]'>
 							Samson
 						</span>
 					</p>
