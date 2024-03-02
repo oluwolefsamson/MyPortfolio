@@ -23,7 +23,7 @@ function Home() {
 	return (
 		<section
 			id='home'
-			className='mx-auto px-8 md:flex md:justify-between md:items-center md:h-full gap-16 pb-6 md:bg-gradient-reverse-space'
+			className='mx-auto px-8 md:flex md:justify-between md:items-center md:h-full gap-10 pb-8 md:bg-gradient-reverse-space'
 		>
 			{/* Image Section */}
 			<div className='md:order-2 flex justify-center basis-3/5 z-10 mt-24 mb-20 md:mt-32'>
@@ -43,7 +43,7 @@ function Home() {
 			</div>
 
 			{/* Main section */}
-			<div className='z-30 basis-1/3  mt-12 ml-19'>
+			<div className='z-30 basis-1/2 mt-12'>
 				{/* Heading */}
 				<motion.div
 					initial='hidden'
@@ -56,7 +56,10 @@ function Home() {
 					}}
 				>
 					<p className='text-6xl font-playfair z-10 text-center md:text-start'>
-						Oluwole Samson
+						Oluwole{' '}
+						<span className='xs:relative xs:text-black xs:font-semibold z-20 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]'>
+							Samson
+						</span>
 					</p>
 
 					{/* Typewriter Effect */}
@@ -72,8 +75,9 @@ function Home() {
 								'Software Developer',
 								'Computer Scientist',
 								'Website Developer',
-								'Freelancer',
-								
+								'Pianist',
+								'Hiker',
+								'and Software Engineer'
 							]}
 							// Delay between multiple texts in milliseconds.
 							multiTextDelay={3000}
@@ -101,10 +105,10 @@ function Home() {
 					<div className='bg-gradient-rainbow p-0.5 rounded'>
 						<a
 							href={Resume}
-							download='OluwoleSamsonOlawumi'
+							download='ChristianDemesaResume'
 							target='_blank'
 							rel='noopener noreferrer'
-							className='bg-black hover:bg-transparent hover:text-black transition duration-500 w-full h-full flex items-center justify-center font-playfair px-10'
+							className='bg-black hover:bg-white hover:text-black transition duration-500 w-full h-full flex items-center justify-center font-playfair px-10'
 						>
 							Download My Resume
 						</a>
