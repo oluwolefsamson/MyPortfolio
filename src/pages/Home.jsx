@@ -23,7 +23,7 @@ function Home() {
 	return (
 		<section
 			id='home'
-			className='mx-auto px-8 md:flex md:justify-between md:items-center md:h-full gap-6 pb-8 md:bg-gradient-reverse-space'
+			className='mx-auto px-8 md:flex md:justify-between md:items-center md:h-full gap-16 pb-6 md:bg-gradient-reverse-space'
 		>
 			{/* Image Section */}
 			<div className='md:order-2 flex justify-center basis-3/5 z-10 mt-24 mb-20 md:mt-32'>
@@ -57,7 +57,7 @@ function Home() {
 				>
 					<p className='text-6xl font-playfair z-10 text-center md:text-start'>
 						Oluwole{' '}
-						<span className='xs:relative xs:text-black xs:font-semibold z-100 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-100]'>
+						<span className='xs:relative xs:text-white xs:font-semibold z-100 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-100]'>
 							Samson
 						</span>
 					</p>
