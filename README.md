@@ -27,4 +27,4 @@ to read, eslint (Airbnb and Prettier configurations) to find problems in the cod
 ## [React Portfolio]
 
 ## Author
-- Christian Demesa: https://github.com/oluwolefsamson
+- Oluwole Samson O: https://github.com/oluwolefsamson
