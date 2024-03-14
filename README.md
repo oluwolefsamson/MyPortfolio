@@ -1,5 +1,3 @@
-# React Portfolio
-My updated portfolio built using React based on Ed Roh's [portfolio tutorial]
 
 
 The project was built with javascript, prettier to make the code easier 
